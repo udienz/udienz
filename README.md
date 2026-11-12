@@ -10,20 +10,22 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-udienz-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/udienz)
 [![X](https://img.shields.io/badge/X-@udienz-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/udienz)
 [![Instagram](https://img.shields.io/badge/Instagram-udienz-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/udienz)
+[![Work account](https://img.shields.io/badge/Work-gdncomm--mahyuddin--susanto-24292f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gdncomm-mahyuddin-susanto)
 
 </div>
 
 ---
 
-### 👋 Halo, saya Mahyu
+### 👋 Hi, I'm Mahyu
 
-Sysadmin dan network engineer dari Indonesia 🇮🇩 dengan lebih dari 15 tahun di dunia Linux dan jaringan.
+A sysadmin and network engineer from Indonesia 🇮🇩 with 15+ years in Linux and networking.
 
-- 🐧 Tumbuh bareng komunitas open source Indonesia: [Ubuntu Indonesia](https://github.com/ubuntu-id), mirror repository, paket Debian, dan [Buaya](https://github.com/udienz/buaya)
-- ⚙️ Dari Puppet dan shell script ke Ansible, Docker, dan Terraform
-- 🌐 Akrab dengan DNS, routing, mail server, dan semua yang bikin internet tetap jalan
-- ✍️ Sekarang lebih banyak menulis di [blog](https://www.udienz.web.id/): sejarah, sepak bola, dan cerita hidup
-- 📖 Sedang membangun ulang [quranweb](https://github.com/udienz/quranweb) dengan Next.js
+- 🐧 Grew up in the Indonesian open source community: [Ubuntu Indonesia](https://github.com/ubuntu-id), repository mirrors, Debian packaging, and [Buaya](https://github.com/udienz/buaya)
+- ⚙️ Went from Puppet and shell scripts to Ansible, Docker, and Terraform
+- 🌐 At home with DNS, routing, mail servers, and the plumbing that keeps the internet running
+- ✍️ These days I write on my [blog](https://www.udienz.web.id/) (in Indonesian) about history, football, and life
+- 📖 Rebuilding [quranweb](https://github.com/udienz/quranweb) with Next.js
+- 💼 This is my personal account. For work, find me at [@gdncomm-mahyuddin-susanto](https://github.com/gdncomm-mahyuddin-susanto)
 
 ---
 
@@ -36,22 +38,22 @@ Sysadmin dan network engineer dari Indonesia 🇮🇩 dengan lebih dari 15 tahun
 
 ---
 
-### 📌 Proyek Pilihan
+### 📌 Featured Projects
 
-| Proyek | Tentang |
+| Project | About |
 | --- | --- |
-| 📖 [quranweb](https://github.com/udienz/quranweb) | Situs baca Al-Qur'an, sedang ditulis ulang dari PHP ke Next.js |
-| ✍️ [udienz.github.io](https://github.com/udienz/udienz.github.io) | Sumber blog [udienz.web.id](https://www.udienz.web.id/) |
-| 🏗️ [terraform-module-cloudflare-dns](https://github.com/udienz/terraform-module-cloudflare-dns) | Modul Terraform untuk DNS di Cloudflare |
-| 🏗️ [terraform-module-named](https://github.com/udienz/terraform-module-named) | Modul Terraform untuk BIND / named |
-| 🚀 [gh-tf-action](https://github.com/udienz/gh-tf-action) | Terraform lewat GitHub Actions |
-| 🐳 [docker-compose](https://github.com/udienz/docker-compose) | Koleksi pribadi file Docker Compose |
-| 🛠️ [dotfiles](https://github.com/udienz/dotfiles) | Konfigurasi shell dan editor sehari-hari |
-| 🐊 [buaya](https://github.com/udienz/buaya) | Proyek mirror lama dari era komunitas |
+| 📖 [quranweb](https://github.com/udienz/quranweb) | Quran reading site, being rewritten from PHP to Next.js |
+| ✍️ [udienz.github.io](https://github.com/udienz/udienz.github.io) | Source of my blog, [udienz.web.id](https://www.udienz.web.id/) |
+| 🏗️ [terraform-module-cloudflare-dns](https://github.com/udienz/terraform-module-cloudflare-dns) | Terraform module for Cloudflare DNS |
+| 🏗️ [terraform-module-named](https://github.com/udienz/terraform-module-named) | Terraform module for BIND / named |
+| 🚀 [gh-tf-action](https://github.com/udienz/gh-tf-action) | Running Terraform with GitHub Actions |
+| 🐳 [docker-compose](https://github.com/udienz/docker-compose) | Personal collection of Docker Compose files |
+| 🛠️ [dotfiles](https://github.com/udienz/dotfiles) | My everyday shell and editor config |
+| 🐊 [buaya](https://github.com/udienz/buaya) | Mirror project from the community days |
 
 ---
 
-### 📝 Tulisan Terbaru
+### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 - [Inter Milan &lpar;5/5&rpar;: Semua Prestasi, Rekor, dan Timeline 1908–2026](https://www.udienz.web.id/2026/11/11/inter-milan-5-prestasi-timeline) <sub>· 11 Nov 2026</sub>
@@ -60,11 +62,11 @@ Sysadmin dan network engineer dari Indonesia 🇮🇩 dengan lebih dari 15 tahun
 - [Inter Milan &lpar;2/5&rpar;: Grande Inter, Catenaccio, dan Dua Piala Eropa](https://www.udienz.web.id/2026/11/11/inter-milan-2-grande-inter) <sub>· 11 Nov 2026</sub>
 - [Inter Milan &lpar;1/5&rpar;: Dari Perpecahan di Milan sampai Tujuh Scudetto Pertama](https://www.udienz.web.id/2026/11/11/inter-milan-1-sejarah-awal) <sub>· 11 Nov 2026</sub><!-- BLOG-POST-LIST:END -->
 
-<sub>Daftar ini diperbarui otomatis setiap hari dari RSS blog.</sub>
+<sub>Updated daily from the blog's RSS feed.</sub>
 
 ---
 
-### 🐍 Kontribusi
+### 🐍 Contributions
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/udienz/udienz/output/github-contribution-grid-snake-dark.svg" />

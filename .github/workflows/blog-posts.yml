@@ -2,7 +2,7 @@ name: Latest blog posts
 
 on:
   schedule:
-    - cron: "17 23 * * *" # setiap hari 06:17 WIB
+    - cron: "17 23 * * *" # daily at 06:17 WIB
   workflow_dispatch:
 
 permissions:
@@ -19,4 +19,4 @@ jobs:
           max_post_count: 5
           date_format: "dd mmm yyyy"
           template: "$newline- [$title]($url) <sub>· $date</sub>"
-          commit_message: "Update tulisan terbaru dari blog"
+          commit_message: "Update latest blog posts"
