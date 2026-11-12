@@ -53,8 +53,11 @@ Sysadmin dan network engineer dari Indonesia 🇮🇩 dengan lebih dari 15 tahun
 
 ### 📝 Tulisan Terbaru
 
-<!-- BLOG-POST-LIST:START -->
-- [Kunjungi blog](https://www.udienz.web.id/)
+<!-- BLOG-POST-LIST:START -->- [Inter Milan &lpar;5/5&rpar;: Semua Prestasi, Rekor, dan Timeline 1908–2026](https://www.udienz.web.id/2026/11/11/inter-milan-5-prestasi-timeline) <sub>· 11 Nov 2026</sub>
+- [Inter Milan &lpar;4/5&rpar;: Thohir, Suning, Oaktree, dan Scudetto ke-21](https://www.udienz.web.id/2026/11/11/inter-milan-4-suning-oaktree) <sub>· 11 Nov 2026</sub>
+- [Inter Milan &lpar;3/5&rpar;: Era Moratti, Ronaldo, Mourinho, dan Treble 2010](https://www.udienz.web.id/2026/11/11/inter-milan-3-era-moratti-treble) <sub>· 11 Nov 2026</sub>
+- [Inter Milan &lpar;2/5&rpar;: Grande Inter, Catenaccio, dan Dua Piala Eropa](https://www.udienz.web.id/2026/11/11/inter-milan-2-grande-inter) <sub>· 11 Nov 2026</sub>
+- [Inter Milan &lpar;1/5&rpar;: Dari Perpecahan di Milan sampai Tujuh Scudetto Pertama](https://www.udienz.web.id/2026/11/11/inter-milan-1-sejarah-awal) <sub>· 11 Nov 2026</sub>
 <!-- BLOG-POST-LIST:END -->
 
 <sub>Daftar ini diperbarui otomatis setiap hari dari RSS blog.</sub>
