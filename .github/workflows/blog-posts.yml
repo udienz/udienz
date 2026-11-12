@@ -18,5 +18,5 @@ jobs:
           feed_list: "https://www.udienz.web.id/feed.xml"
           max_post_count: 5
           date_format: "dd mmm yyyy"
-          template: "- [$title]($url) <sub>· $date</sub>$newline"
+          template: "$newline- [$title]($url) <sub>· $date</sub>"
           commit_message: "Update tulisan terbaru dari blog"
