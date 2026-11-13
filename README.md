@@ -56,11 +56,11 @@ A sysadmin and network engineer from Indonesia 🇮🇩 with 15+ years in Linux 
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Inter vs Milan vs Juventus: Siapa Raja Trofi Italia? &lpar;Update November 2026&rpar;](https://www.udienz.web.id/2026/11/13/inter-vs-milan-vs-juventus-trofi-italia-2026) <sub>· 13 Nov 2026</sub>
 - [Inter Milan &lpar;5/5&rpar;: Semua Prestasi, Rekor, dan Timeline 1908–2026](https://www.udienz.web.id/2026/11/11/inter-milan-5-prestasi-timeline) <sub>· 11 Nov 2026</sub>
 - [Inter Milan &lpar;4/5&rpar;: Thohir, Suning, Oaktree, dan Scudetto ke-21](https://www.udienz.web.id/2026/11/11/inter-milan-4-suning-oaktree) <sub>· 11 Nov 2026</sub>
 - [Inter Milan &lpar;3/5&rpar;: Era Moratti, Ronaldo, Mourinho, dan Treble 2010](https://www.udienz.web.id/2026/11/11/inter-milan-3-era-moratti-treble) <sub>· 11 Nov 2026</sub>
-- [Inter Milan &lpar;2/5&rpar;: Grande Inter, Catenaccio, dan Dua Piala Eropa](https://www.udienz.web.id/2026/11/11/inter-milan-2-grande-inter) <sub>· 11 Nov 2026</sub>
-- [Inter Milan &lpar;1/5&rpar;: Dari Perpecahan di Milan sampai Tujuh Scudetto Pertama](https://www.udienz.web.id/2026/11/11/inter-milan-1-sejarah-awal) <sub>· 11 Nov 2026</sub><!-- BLOG-POST-LIST:END -->
+- [Inter Milan &lpar;2/5&rpar;: Grande Inter, Catenaccio, dan Dua Piala Eropa](https://www.udienz.web.id/2026/11/11/inter-milan-2-grande-inter) <sub>· 11 Nov 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <sub>Updated daily from the blog's RSS feed.</sub>
 
