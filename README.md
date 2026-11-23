@@ -45,12 +45,11 @@ My open-source journey began in the late 2000s. I've been an Ubuntu Developer (M
 | Project | About |
 | --- | --- |
 | 📖 [quranweb](https://github.com/udienz/quranweb) | Quran reading site, being rewritten from PHP to Next.js |
+| 📖 [hadistweb](https://github.com/udienz/hadistweb) | Hadith reading site, being written to Next.js |
 | ✍️ [udienz.github.io](https://github.com/udienz/udienz.github.io) | Source of my blog, [udienz.web.id](https://www.udienz.web.id/) |
 | 🏗️ [terraform-module-cloudflare-dns](https://github.com/udienz/terraform-module-cloudflare-dns) | Terraform module for Cloudflare DNS |
 | 🏗️ [terraform-module-named](https://github.com/udienz/terraform-module-named) | Terraform module for BIND / named |
-| 🚀 [gh-tf-action](https://github.com/udienz/gh-tf-action) | Running Terraform with GitHub Actions |
 | 🐊 [buaya](https://github.com/udienz/buaya) | Mirror project from the community days |
-| 🐳 [docker-compose](https://github.com/udienz/docker-compose) | Personal collection of Docker Compose files |
 | 🛠️ [dotfiles](https://github.com/udienz/dotfiles) | My everyday shell and editor config |
 
 ---
