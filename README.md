@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Mahyu%20%C2%B7%20udienz&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=36" alt="header" />
 
 <a href="https://github.com/udienz">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1200&color=2C9AB7&center=true&vCenter=true&width=600&lines=Linux+%26+Network+Engineer+since+the+2000s;Debian+%2F+Ubuntu+%2F+Infrastructure+as+Code;Now+writing+about+history+%26+football" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1200&color=2C9AB7&center=true&vCenter=true&width=650&lines=Linux+%26+Network+Engineering+since+the+2000s;Open+Source+Contributor+since+2008;Building+Infrastructure%2C+Tools+%26+Side+Projects;Writing+about+Technology%2C+History+%26+Football" alt="Typing SVG" />
 </a>
 
 [![Blog](https://img.shields.io/badge/Blog-udienz.web.id-2c5364?style=for-the-badge&logo=rss&logoColor=white)](https://www.udienz.web.id/)
@@ -18,14 +18,16 @@
 
 ### 👋 Hi, I'm Mahyu
 
-A sysadmin and network engineer from Indonesia 🇮🇩 with 15+ years in Linux and networking.
+I'm a technology enthusiast, infrastructure engineer, and open-source contributor from Indonesia 🇮🇩 with 15+ years of experience in Linux, networking, and large-scale infrastructure.
 
-- 🐧 Grew up in the Indonesian open source community: [Ubuntu Indonesia](https://github.com/ubuntu-id), repository mirrors, Debian packaging, and [Buaya](https://github.com/udienz/buaya)
-- ⚙️ Went from Puppet and shell scripts to Ansible, Docker, and Terraform
-- 🌐 At home with DNS, routing, mail servers, and the plumbing that keeps the internet running
-- ✍️ These days I write on my [blog](https://www.udienz.web.id/) (in Indonesian) about history, football, and life
-- 📖 Rebuilding [quranweb](https://github.com/udienz/quranweb) with Next.js
-- 💼 This is my personal account. For work, find me at [@gdncomm-mahyuddin-susanto](https://github.com/gdncomm-mahyuddin-susanto)
+My open-source journey began in the late 2000s. I've been an Ubuntu Developer (MOTU) since 2008 and have also contributed to the Debian ecosystem. Beyond my day-to-day work, I enjoy building tools, experimenting with infrastructure automation, exploring new technologies, and maintaining personal projects. I'm also interested in history, football, and writing about things that catch my curiosity.
+
+- 🐧 Part of the Indonesian open-source community, including [Ubuntu Indonesia](https://github.com/ubuntu-id), repository mirrors, Debian packaging, and [Buaya](https://github.com/udienz/buaya)
+- ⚙️ From Puppet and shell scripts to Ansible, Docker, and Terraform—always interested in making infrastructure work better through automation
+- 🌐 Interested in the foundations of the internet: Linux, DNS, routing, mail systems, and network infrastructure
+- 🛠️ Building and maintaining personal projects, including [quranweb](https://github.com/udienz/quranweb)
+- ✍️ Writing on my [blog](https://www.udienz.web.id/) (mostly in Indonesian) about technology, history, football, and life
+- 💼 This is my personal account. For my professional profile and work-related projects, visit [@gdncomm-mahyuddin-susanto](https://github.com/gdncomm-mahyuddin-susanto)
 
 ---
 
@@ -47,9 +49,9 @@ A sysadmin and network engineer from Indonesia 🇮🇩 with 15+ years in Linux 
 | 🏗️ [terraform-module-cloudflare-dns](https://github.com/udienz/terraform-module-cloudflare-dns) | Terraform module for Cloudflare DNS |
 | 🏗️ [terraform-module-named](https://github.com/udienz/terraform-module-named) | Terraform module for BIND / named |
 | 🚀 [gh-tf-action](https://github.com/udienz/gh-tf-action) | Running Terraform with GitHub Actions |
+| 🐊 [buaya](https://github.com/udienz/buaya) | Mirror project from the community days |
 | 🐳 [docker-compose](https://github.com/udienz/docker-compose) | Personal collection of Docker Compose files |
 | 🛠️ [dotfiles](https://github.com/udienz/dotfiles) | My everyday shell and editor config |
-| 🐊 [buaya](https://github.com/udienz/buaya) | Mirror project from the community days |
 
 ---
 
