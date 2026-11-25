@@ -57,11 +57,11 @@ My open-source journey began in the late 2000s. I've been an Ubuntu Developer (M
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [BYD Titan 7 Resmi di Indonesia, PHEV 7 Kursi Rp639 Juta](https://www.udienz.web.id/2026/11/25/byd-titan-7-resmi-masuk-indonesia-harga-spesifikasi) <sub>· 25 Nov 2026</sub>
 - [Klasemen Serie A 2026/27 Setelah Giornata 12](https://www.udienz.web.id/2026/11/24/klasemen-serie-a-giornata-12-2026-27) <sub>· 24 Nov 2026</sub>
 - [Kabar Pemain Abroad Timnas Indonesia, 24 November 2026](https://www.udienz.web.id/2026/11/24/kabar-pemain-abroad-timnas-indonesia) <sub>· 24 Nov 2026</sub>
 - [Sejarah Game GTA: Dari Race’n’Chase 1995 sampai GTA VI](https://www.udienz.web.id/2026/11/17/sejarah-game-gta-dari-1995-sampai-gta-vi) <sub>· 17 Nov 2026</sub>
-- [Ubuntu 26.10 Stonking Stingray: Beda dari 26.04 LTS](https://www.udienz.web.id/2026/11/17/ubuntu-26-10-stonking-stingray-apa-yang-baru) <sub>· 17 Nov 2026</sub>
-- [GTA VI di Indonesia: Biaya, Edisi, Ukuran Unduhan, dan Nasib Pemain PC/Linux](https://www.udienz.web.id/2026/11/17/gta-vi-di-indonesia-biaya-edisi-ukuran-unduhan-pc-linux) <sub>· 17 Nov 2026</sub><!-- BLOG-POST-LIST:END -->
+- [Ubuntu 26.10 Stonking Stingray: Beda dari 26.04 LTS](https://www.udienz.web.id/2026/11/17/ubuntu-26-10-stonking-stingray-apa-yang-baru) <sub>· 17 Nov 2026</sub><!-- BLOG-POST-LIST:END -->
 
 <sub>Updated daily from the blog's RSS feed.</sub>
 
